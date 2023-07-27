@@ -1,5 +1,5 @@
 ## 签名效果预览
-<div align=center><img width="324" height="768" src="https://raw.githubusercontent.com/youhongye/E-Signature/1.0/app/src/main/res/drawable-xxhdpi/img_signature.png"/></div>
+<div align=center><img width="324" height="768" src="https://raw.githubusercontent.com/youhongye/E-Signature/master/app/src/main/res/drawable-xxhdpi/img_demo.png"/></div>
 
 ## Gradle引用
 	implementation 'com.github.youhongye:E-Signature:1.0'    
