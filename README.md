@@ -18,10 +18,7 @@ allprojects {
 <com.ylly.signature.view.SignatureView
         android:id="@+id/signature_view"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
-        app:paintColor="#333333"
-        app:paintMaxWidth="6dp"
-        app:paintMinWidth="4dp" />
+        android:layout_height="300dp"/>
 ```
 #### 画笔属性
 ```
